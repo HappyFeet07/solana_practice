@@ -11,12 +11,16 @@ One is program, and the client is stuff to code to interact with the program you
 Before dive in, start your own solana validator with the following code
 solana-test-validator
 
-To compile your program
+To compile your program.
+
 cargo build-bpf
+ 
 will do the work, and deploy you're program after
 
 To compile your code in client side, run
+ 
 cargo build && cargo run
+
 to run you're code.
 
 And you're good to go!
