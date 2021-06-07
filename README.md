@@ -9,18 +9,17 @@ Each directory has two different sub file,
 One is program, and the client is stuff to code to interact with the program you deployed.
 
 Before dive in, start your own solana validator with the following code
-solana-test-validator
 
-To compile your program.
+`solana-test-validator`
+And don't forget to set your solana-cli to localhost
+`solana config set --url http://127.0.0.1:8899`
 
-cargo build-bpf
- 
+To compile your program, go into the program folder and run the following command
+`cargo build-bpf`
 will do the work, and deploy you're program after
 
 To compile your code in client side, run
- 
-cargo build && cargo run
-
+`cargo build && cargo run`
 to run you're code.
 
 And you're good to go!
