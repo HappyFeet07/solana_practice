@@ -1,0 +1,12 @@
+/Users/jacktseng/work/rust/SPL/client/target/debug/deps/xattr-aeb0b83470fbffbe.rmeta: /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/lib.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/error.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/mod.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/util.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/mod.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/macos.rs
+
+/Users/jacktseng/work/rust/SPL/client/target/debug/deps/libxattr-aeb0b83470fbffbe.rlib: /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/lib.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/error.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/mod.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/util.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/mod.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/macos.rs
+
+/Users/jacktseng/work/rust/SPL/client/target/debug/deps/xattr-aeb0b83470fbffbe.d: /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/lib.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/error.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/mod.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/util.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/mod.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/macos.rs
+
+/Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/lib.rs:
+/Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/error.rs:
+/Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/mod.rs:
+/Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/util.rs:
+/Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/mod.rs:
+/Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/xattr-0.2.2/src/sys/linux_macos/macos.rs:

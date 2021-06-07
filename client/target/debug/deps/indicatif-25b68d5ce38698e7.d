@@ -1,0 +1,12 @@
+/Users/jacktseng/work/rust/SPL/client/target/debug/deps/indicatif-25b68d5ce38698e7.rmeta: /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/lib.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/format.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/iter.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/progress.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/style.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/utils.rs
+
+/Users/jacktseng/work/rust/SPL/client/target/debug/deps/libindicatif-25b68d5ce38698e7.rlib: /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/lib.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/format.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/iter.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/progress.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/style.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/utils.rs
+
+/Users/jacktseng/work/rust/SPL/client/target/debug/deps/indicatif-25b68d5ce38698e7.d: /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/lib.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/format.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/iter.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/progress.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/style.rs /Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/utils.rs
+
+/Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/lib.rs:
+/Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/format.rs:
+/Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/iter.rs:
+/Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/progress.rs:
+/Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/style.rs:
+/Users/jacktseng/.cargo/registry/src/github.com-1ecc6299db9ec823/indicatif-0.15.0/src/utils.rs:
